@@ -11,5 +11,6 @@ Calculates the total Damage Downs/Deaths and compares them to the amount of logs
 # To-Do List
   - Make the formula for calculation
   - Implement FFlog's API to database
+  - Use GraphQl to request a pull for log data
   - Obtain log data to find the variables for Damage Downs, Weaknesses and Brink of Deaths
   -  
